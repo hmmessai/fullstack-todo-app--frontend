@@ -3,5 +3,8 @@
 
 needs nodejs >= 14
 
+## Installation
+To install all the needed npm packages use `npm install`
+
 ## How to start
 `npm start`
